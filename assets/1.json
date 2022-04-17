@@ -1,0 +1,19 @@
+{
+    "name": "moji",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "Dk98hRk7A5oXvTSHThFo3UiBhGUG3st9wHxfeNZCp29N",
+          "share": 100
+        }
+      ]
+    }
+  }
